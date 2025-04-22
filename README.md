@@ -120,5 +120,3 @@ MIT License — See [LICENSE](./LICENSE) for details. 📜👐🛠️
 - Focus: **Ethereum + Public Data + Geolocation**
 
 Made with ❤️ by @mredidy 🚀🧑‍🚀✨
-
-
